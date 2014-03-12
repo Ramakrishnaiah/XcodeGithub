@@ -26,7 +26,7 @@
     [_splitViewController release];
     [super dealloc];
 }
-
+//RK test check-in
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions
 {
     self.window = [[[UIWindow alloc] initWithFrame:[[UIScreen mainScreen] bounds]] autorelease];
